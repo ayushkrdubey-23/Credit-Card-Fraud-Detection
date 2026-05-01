@@ -50,13 +50,13 @@ The project implements an end-to-end ML pipeline:
 ##  Results
 
 ###  Fraud Distribution
-![Fraud Distribution](images/fraud_distribution.png)
+![Fraud Distribution](https://github.com/ayushkrdubey-23/Credit-Card-Fraud-Detection/blob/images/fraud_distribution.png)
 
 ###  Transaction Amount Distribution
-![Amount Distribution](images/amount_distribution.png)
+![Amount Distribution](https://github.com/ayushkrdubey-23/Credit-Card-Fraud-Detection/blob/images/amount_distribution.png)
 
 ###  Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/ayushkrdubey-23/Credit-Card-Fraud-Detection/blob/images/confusion_matrix.png)
 
 ---
 
@@ -69,13 +69,15 @@ The project implements an end-to-end ML pipeline:
 
 ##  Project Structure
 Credit-Card-Fraud-Detection/
-├── data/ # Dataset
-├── models/ # Saved ML models
-├── outputs/ # Reports and results
-├── images/ # Visualizations
-├── main.py # Main pipeline
-├── README.md
-├── requirements.txt
+**in branch(images || models || data || output)**
+data/ # Dataset
+models/ # Saved ML models
+outputs/ # Reports and results
+images/ # Visualizations
+**in main**
+main.py # Main pipeline
+README.md
+requirements.txt
 
 ##  How to Run
 
